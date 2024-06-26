@@ -11,3 +11,7 @@ go to sript folder and open cmd there
 activate virtual_Environment command ' activate '
 pip install python
 pip install qrcode
+
+
+This mini-project provides a practical introduction to working with QR codes in Python and can be further extended 
+with additional features such as a graphical user interface (GUI) for enhanced usability.
